@@ -64,7 +64,7 @@ $ npm run dev
 
   VITE v4.1.4  ready in 672 ms
 
-  ➜  Local:   http://127.0.0.1:5173/
+  ➜  Local:   http://127.0.0.1:PORT-NUMBER/
   ➜  Network: use --host to expose
   ➜  press h to show help
 ```
