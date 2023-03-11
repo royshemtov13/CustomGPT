@@ -47,13 +47,13 @@ Great! You're all set
 <!-- USAGE -->
 ## Usage
 
-once you have all that set and done you can run your app
+Once you have all that set and done you can run your app
 
 ```bash
 npm run dev
 ```
 
-you will recieve something that looks like this
+You will recieve something that looks like this
 
 ```bash
 $ npm run dev
@@ -69,14 +69,14 @@ $ npm run dev
   ➜  press h to show help
 ```
 
-open this http link there you will see that ChatBot App.
+Open this http link there you will see the CustomGPT chatbot.
 
 Now you can interact with it and ask it anything you would like to know that's in his scope of answering.
 
 </br>
 
 <!-- ADVANCED USAGE -->
-## Change CustomGPT behavior
+## Change CustomGPT's behavior
 
 By default CustomGPT will behave like the regular ChatGPT bot
 
@@ -93,7 +93,9 @@ For example:
 19. };
 ```
 
-Given that example CustomGPT will now become PirateGPT and will answer questions as if it is a now a Pirate! A PirateGPT bot.
+Given that example CustomGPT will now become PirateGPT and will answer questions as if it's now a Pirate! A PirateGPT bot.
+
+</br>
 
 <!-- EXAMPLE -->
 ## Example
